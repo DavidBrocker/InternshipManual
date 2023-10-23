@@ -1,0 +1,53 @@
+---
+title: "About/Research"
+filters:
+    - webr
+---
+
+```{=html}
+<style>
+
+.navbar-dark{
+background-color: #006F71
+}
+
+</style>
+```
+## Logging Hours
+
+```{webr-r}
+
+time_worked <- function(x){
+  # Code to divide by 60
+  tw <- round(x/60,2) 
+  tw
+  print(paste0("You worked ", x, 
+               " minutes. Please log ",
+               tw," in Axiom"))
+}
+# Change this!
+time_worked(70)
+
+plot(rnorm(10,4,2))
+```
+
+R can be integrated into 'static' sites with dynamic content. For example, this could be used to demonstrate the following concepts.
+
+### Sampling Distributions
+
+```{webr-r}
+
+# Here is a sample of 20 items from a population of 100
+# The mean of the sample is 5. Change the sample taken to see
+# how it affects the mean of the sample
+# Sample of 100 items with mean of 5 and standard deviation of 2.
+x <- rnorm(100,5,2)
+
+xs<- sample(x,20)
+
+hist(xs, 
+main = "Histogram of Sample Compared to Population",
+xlab = "Value")
+abline(v = mean(xs), 
+       col = "blue")
+```

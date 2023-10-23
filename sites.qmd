@@ -1,0 +1,80 @@
+---
+title: Site Selection
+---
+
+<style>
+
+.navbar-dark{
+background-color: #006F71
+}
+
+</style>
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+library(readxl)
+library(dplyr)
+library(huxtable)
+library(janitor)
+library(stringr)
+
+all_sites <- 
+  read_excel("Psychology Applied Learning.xlsx") |> 
+  clean_names() |> 
+  select(company_name,company_url,company_city,
+         company_description) |> 
+  rename(
+    Name = company_name,
+    URL = company_url,
+    City = company_city,
+    Description = company_description
+  ) |> 
+  mutate(hyper_pre = paste0("[",Name,"]"),
+         hyper_post = paste0("(",URL,")"),
+         hyper = paste0(hyper_pre,hyper_post)
+           ) |> 
+  select(-Name,-URL,-hyper_pre,-hyper_post) |> 
+  relocate(hyper, .before = City) |> 
+  rename(Organization  = hyper) |> 
+  mutate(`Previous Students` = runif(179,
+                                     min = 1,
+                                     max = 10) |> round(0)) 
+```
+
+::: {.panel-tabset}
+
+## Internships
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+all_sites |> 
+  filter(!str_detect(Organization,"Research")) |> 
+  hux() |> 
+  set_markdown() |> 
+  theme_article() |> 
+  set_align(row = 1,
+            value = "center") 
+```
+
+## Research Assistantships
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+all_sites |> 
+  filter(str_detect(Organization,"Research")) |> 
+  select(-City) |> 
+  hux() |> 
+  set_markdown() |> 
+  theme_article() |> 
+    set_align(row = 1,
+            value = "center")
+```
+
+
+:::

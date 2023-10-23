@@ -1,0 +1,408 @@
+---
+title: "Senior Project Student Handbook"
+subtitle: "Psy 442/443"
+author: "Marya Howell-Carter, Jennifer Gonder, David Brocker"
+date: '`r Sys.Date()`'
+editor: visual
+theme:
+  light: flatly
+  dark: darkly
+smooth-scroll: true
+filters: 
+    - lightbox
+lightbox: auto
+---
+
+```{=html}
+<style>
+
+.navbar-dark{
+background-color: #006F71
+}
+
+</style>
+```
+# Classroom Seminar {#classroom-seminar}
+
+Students will attend weekly classroom seminars and discuss topics including resume writing, interviewing, career planning, and their experiences with the Internship/Senior Project activity. Students will complete several graded assignments related to these topics.
+
+# Applied Work {#applied-work}
+
+::: panel-tabset
+Students have two basic options for the work component of the Internship/Senior Project: Internship and Research
+
+## Internship {#internship}
+
+The Applied Psychology **Internship** Program is one option for students completing their senior sequence in PSY 442 and PSY 443. In an internship, the student will work in a local organization. For students who select the internship option, one or both semesters will involve a minimum of 90 hours per semester working at an internship site in addition to weekly on-campus classroom meetings of PSY 442 or PSY 443. An internship should be selected based on the student's educational and career goals. Both PSY442/443 faculty and an on-site supervisor within the sponsoring organization, supervise the internship. See additional description and learning objectives below.
+
+## Research
+
+The Applied Psychology **Research Assistantship or Research Independent Project** are additional options for students completing their senior sequence in PSY 442 and PSY 443. As a research assistant, the student will work with a faculty member as an assistant in the faculty member's ongoing research and/or consultation with organizations. Alternatively, the student may develop an independent project under the supervision of a faculty member. The selection of an experience will be made by the student and his/her advisor, based on which option best meets the student's educational and career goals. For students who select the research option, one or both semesters will involve a minimum of 90 hours per semester working on research with a faculty member in addition to weekly on-campus classroom meetings of PSY 442 or PSY 443. Both PSY442/443 faculty and the students' faculty research mentor supervise the project. See additional description and learning objectives below.
+
+## Alternate
+
+If a student has an idea for an Internship/Senior Project experience that does not clearly fit into one of the categories above, the student can propose the experience to the internship coordinator for approval. Alternative activities must meet the basic learning objectives of an Internship/Senior Project experience (see "[Internship/Senior Project: Alternate](#_Internship/Senior_Project:_Alternat)" below). Students have the option to change their Internship/Senior Project placement at the semester break---they can do two different internships, or a combination of internship/research assistantships. However, students selecting a *research independent project* must commit to both semesters.
+:::
+
+# Learning Contracts {#learning-contracts}
+
+During the first week of classes, a copy of the appropriate Learning Contract ([Internship](#internship), [Research Assistantship](#research-assistantship), [Independent Project](#independent-research-project) or [Alternate](#_Internship/Senior_Project:_Alternat_1)), signed by the student and supervisor/faculty mentor, should be submitted to the course instructor for signature. It should specify all the tasks and responsibilities that the intern will be expected to perform during the semester. The learning contract can be modified at any time by mutual consent of the supervisor and intern and by sending a statement of change to the course instructor. The tasks and responsibilities outlined on the contract should reflect the learning goals and objectives specified on the learning contract and listed below. Students are responsible for their own transportation to and from the internship placement. Students are not considered assigned to an Internship/Senior Project activity until the contracts are signed and returned to the Applied Psychology Internship Coordinator at the College. Learning contracts should be submitted by the first week of classes each semester.
+
+# Orientation/Supervision {#orientationsupervision}
+
+Organizations/supervisors are expected to provide adequate orientation, training, supervision, and feedback to students. Supervision should average 30 minutes per week. Supervision can occur weekly (for 30 minutes) or bi-weekly (for an hour). The time spent in supervision should be noted on the weekly time sheet signed by the supervisor ([see time sheet below](#sample-internship-timesheet)). Supervision can vary from site to site, however, the *key* component is that there is dedicated time set aside for you to process your experience, ask questions, and receive feedback from your supervisor.
+
+# Semester Report {#semester-report}
+
+Students will document activities performed as part of their Internship/Senior Project activity. The resultant semester report will be submitted and presented at the end of the semester. A presentation of the activities will be made in the 442/443 classroom seminar and/or at the Psychology Department Gallery of Senior Projects (for those students who are/will be members of [Psi Chi](https://www.farmingdale.edu/arts-sciences/psy/psi-chi.shtml) at the time of their graduation.)
+
+**See below for examples of past Semester Reports**
+
+::: panel-tabset
+## Internship
+
+![Fig 1. Internship Example](poster_ex2.jpg){group="examples"}
+
+## Research
+
+![Fig 2: Research Example](poster_ex1.jpg){group="examples"}
+
+## Independent Project
+
+![Fig 3. Independent Project Example](poster_ex3.jpg){group="examples"}
+:::
+
+# Evaluations
+
+::: panel-tabset
+## Supervisors
+
+Supervisors will provide both a mid-term and a final evaluation of the students' overall performance. The most relevant criterion for the evaluation is performance on the aspects of the Internship/Senior Project experience outlined in the learning contract (e.g., performance of tasks as expected, quality of work, quantity of work, dedication to work).
+
+The supervisor should also provide an evaluation of the student's professional behaviors (e.g., professionalism in the setting including attendance, timely submission of work, interactions with coworkers, and interactions with clients, as appropriate). The midterm evaluation should identify any problems or areas of weakness that can/should be addressed in the second half of the experience. The mid-term evaluation is also an opportunity to make any revisions to the expectations/tasks/responsibilities of the intern. The supervisor should review the midterm evaluation with the student and both the supervisor and student must sign the evaluation. Mid-term evaluations should be completed and submitted by the 8^th^ week of the semester.
+
+## Students
+
+**Required for Internship only**
+
+Students will provide a final evaluation of their supervisor/internship site to the internship coordinator. This evaluation will be completed at the end of the course and will have no impact on students' grades/evaluations. The purpose of the evaluation is two-fold:
+
+1.  To maintain quality in the internship program/eliminate internship sites that provide inadequate experience; and
+
+2.  To inform future students about the opportunities afforded by various internship sites. The evaluations will be read by the internship coordinator and made available to future interns seeking placement in the same organization. For the evaluations to be useful, we ask that students provide candid, comprehensive feedback on their internship experience.
+:::
+
+# Paid Work {#paid-work}
+
+Organizations/supervisors wishing to *hire* the student to perform work outside of the scope of the designated Internship/Senior Project activities and hours must make the activities and hours of the employment *separate* from the Internship/Senior Project hours and activities. While paid internships are allowed, they *must meet* all the requirements of the [NYS Department of Labor for internships](https://dol.ny.gov/system/files/documents/2021/03/p725.pdf)
+
+# Finding a Placement {#finding-a-placement}
+
+It is the ***student's responsibility*** to find and secure an Internship/Senior Project placement. The faculty have information on previous placements, recommendations for organizations, and can assist in the process, but students will not be ***assigned*** a placement. Failure to secure a placement in a timely fashion and/or failure to complete the required hours will result in withdrawal, an incomplete, or failure, depending on the student's unique circumstances.
+
+For research placements, you must make an appointment to speak with a faculty member to discuss opportunities for research assistantships or mentorship of an independent project. Please see [here](https://www.farmingdale.edu/arts-sciences/psy/faculty_researchers-1.shtml) for an updated list of faculty research interests and ongoing projects.
+
+For internships, you should review [Axiom Mentor](#axiom-mentor) (see below), visit the [Nexus Center](https://www.farmingdale.edu/nexus/), use job search engines (e.g., [Indeed](http://www.indeed.com/)), visit professional society websites (e.g.,[SHRM](http://www.shrmli.org/)), contact local business, school districts, or mental health agencies (e.g., Long Island Crisis Center), talk with your employers or personal contacts, and meet with your academic advisor and/or PSY 442/443 instructor. Faculty have information on previous placements, recommendations for organizations, and can assist in the process.
+
+```{=html}
+<iframe src = "https://farmingdale.qualtrics.com/jfe/form/SV_4IuJJUJnd3CKphQ" height="800px" width="600px"</iframe></iframe>
+```
+# Axiom Mentor {#axiom-mentor}
+
+There is a listing of all the places where students have completed internships on [Axiom Mentor](#axiom-mentor) (see the instructions below for accessing and using Axiom). Being on this list is NOT A GUARANTEE that the site has an available internship. Some already have students for this semester, some are not taking students this semester, and some may no longer want interns, etc. It is simply a place to begin your search.
+
+::: panel-tabset
+## Additional Information: Internship
+
+**Approval of Internship Sites and Supervisors (required for Internship ONLY)**
+
+The internship coordinator must approve sites/supervisors that have not hosted an intern in the past before the internship can begin. Once a student has discussed a potential internship with a site and identified a supervisor willing to host the intern, the student should contact the internship coordinator with the supervisor's complete contact information. The internship coordinator will contact the supervisor, schedule a site visit, and respond to the student about approval. Site approval should take place before an internship agreement is negotiated. See the timeline below for specific information regarding site approval, learning contract submission, and internship commencement.
+
+Sponsoring organizations are requested to interview applicants prior to the beginning of the internship and to abide by the [College's Affirmative Action](#affirmative-action-and-equal-employment-opportunity) Policy. See below.
+
+## Additional Information: Research
+
+**Research Placements**
+
+If you are planning to do research, there are two options: **research assistantships** (helping a faculty member with their ongoing research) or **independent project** (completing your OWN research project under the mentorship of a faculty member). Students should do research because is it developmentally/educationally appropriate and in line with their future goals. Research is best for those students planning graduate school in experimental psychology and/or a PhD in any field. If you have **not completed research methods**, you **ARE NOT ELIGIBLE** to do a research internship.
+
+If you are planning a research experience, you should reach out to a faculty member to discuss your research/graduate school/career interests. The faculty member does not need to be a member of the Psychology Department (e.g., you may work with Business faculty). Faculty will accept research assistants or agree to mentor independent projects based on available resources and the nature of the research they are conducting in each semester.
+
+Students must have research placements confirmed with a faculty mentor **no later than 2 weeks [before]{.underline}** the semester begins. Students who do not secure a research placement with a faculty member at least two weeks before the semester begins will be required to seek a non-research placement.
+:::
+
+# Internship/Senior Project Timeline {#internshipsenior-project-timeline}
+
+Planning for the Internship/Senior Project experience should begin in the semester before hours will be accrued.
+
+An experience should be agreed upon 3 weeks before the semester begins. A learning contract should be signed **no later than** the week classes begin. The goal of planning well in advance of the semester is that each student can begin his or her Internship/Senior Project experience in the SECOND week of the semester. This timing enables students to complete the Internship/Senior Project requirements ***before*** final exams week, at a pace of 7 hours per week (excluding Thanksgiving week). This is the appropriate pace for the experience and allows for maximal learning.
+
+You must **secure an internship before the fourth week of the semester** to remain in PSY 442/443. If you have not, you will be asked to withdraw from the class and will need to retake it next semester. You must earn 90 hours across the semester. This is very difficult to do if you have not begun to accrue hours in the first month. Moreover, the Department will no longer be able to offer "filler" projects while you wait for a possible internship placement.
+
+It is the **student's responsibility** to notify the Internship/Senior Project course instructor, no **later than 2 weeks [before]{.underline}** the semester begins if they have NOT secured an Internship/Senior Project placement. At that time, course faculty can make additional suggestions and referrals for other sites/activities. Failure to report the problem to your faculty results in further delay, makes it more difficult for us to assist, and could result in an incomplete at the end of the semester.
+
+## Timeline By Semester {#timeline-by-semester}
+
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **November 1 or April 1:**               | Registration for PSY 442/443 (Nov. for spring/Apr. for fall semester)                                                                                                                                      |
++==========================================+============================================================================================================================================================================================================+
+| **November 15 or April 15:**             | Receive Internship/Senior Project Handbook                                                                                                                                                                 |
+|                                          |                                                                                                                                                                                                            |
+|                                          | (Through advisement, PSY348, or PSY360)                                                                                                                                                                    |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **December 1 or May 1:**                 | Talk with faulty about internship sites, if needed                                                                                                                                                         |
+|                                          |                                                                                                                                                                                                            |
+|                                          | ***Inquiries/Phone calls to potential sites should begin now***                                                                                                                                            |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **3 weeks BEFORE 1^st^ day of classes:** | Site visits by Internship Coordinator to approve *new* internship sites begin                                                                                                                              |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **2 weeks BEFORE 1^st^ day of classes:** | Internship/Senior Project verbal agreement with faculty or internship site                                                                                                                                 |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The week classes begin:**              | Notify 442/443 instructor of difficulty securing placement                                                                                                                                                 |
+|                                          |                                                                                                                                                                                                            |
+|                                          | Finalize research placements                                                                                                                                                                               |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **2^nd^ week of semester:**              | Submission of appropriate Learning Contract                                                                                                                                                                |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **4^th^ week of semester:**              | Begin accruing internship hours. If not placed, report problem to 442/443 faculty *If no Internship/Senior Project has been secured by this time, the student **may** be compelled to withdraw from class* |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **15^th^ week of semester:**             | 90 hours must be complete                                                                                                                                                                                  |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+# Affirmative Action and Equal Employment Opportunity {#affirmative-action-and-equal-employment-opportunity}
+
+## Farmingdale State College Statement of Compliance {#farmingdale-state-college-statement-of-compliance}
+
+> Farmingdale State College, State University of New York, does not discriminate on the basis of race, color, national origin, religion, age, sex, sexual orientation, gender identity, disability, veteran status or marital status, in the recruitment of students, the recruitment and employment of faculty or staff, or the operation of any of its programs and activities, as specified in federal and state laws and regulations. Farmingdale State College policy also prohibits retaliation against any employee or person seeking employment for bringing a complaint of discrimination or harassment pursuant to this policy. This policy also prohibits retaliation against a person who assists someone with a complaint of discrimination of harassment or participates in any manner in an investigation or resolution of a complaint of discrimination or harassment. Retaliation includes threats, intimidation, reprisals, and/or adverse actions related to employment.
+
+# Applied Work Descriptions and Learning Objectives {#applied-work-descriptions-and-learning-objectives}
+
+All Internship/Senior Projects all allow students to test career intentions, improve skills in both written and oral communications, develop their applied psychology skills, and acquire experience that will be useful when seeking employment or graduate studies. Within the general framework provided by the course syllabus and instructor, the intern/researcher tailors their experience to his/her own needs, interests and career goals as well as to the needs, opportunities, and expertise of the site/site supervisor/faculty mentor.
+
+The experience is guided by a learning contract created by the student and supervisor (see sample learning contract below). In addition to overseeing the professional development activities of the course, the course instructor provides suggestions for placement, is available for consultation with the intern, and coordinates the evaluation of the intern. The internship coordinator provides contact between the College and the internship site/site supervisor, oversees contracts between the College and the site, evaluates/approves internship sites, and maintains records of interns/sites.
+
+# Internship
+
+::: panel-tabset
+## Description
+
+> Students selecting this option will work in a local organization and apply the knowledge gained in the classroom to a "real world" environment. Internships allow students to test career intentions, improve skills in both written and oral communications, develop their applied psychology skills, and acquire project experience that will be useful when seeking employment or graduate studies. There are many types of organizations that are appropriate for internships (e.g., businesses with a human resource department, counseling centers, schools).
+>
+> The student's career goals and interests should determine the type of organization selected. Learning and gaining professional experience are the major goals of an internship. Students must be assigned meaningful experiences that contribute to their learning. It is important that the work assigned be matched to the interests and skill level of the student as well as the needs of the organization/business offering the internship. Organizations are expected to provide adequate orientation, training, supervision and feedback for students.
+
+## Student Preparation
+
+Prior to the start of the semester, you should clarify you career goal and decide on the type of organization in which you would like to work. You will contact the organization(s) to determine the kinds of internships available to undergraduate students. You may also contact the Internship Coordinator or 442/443 Instructor for assistance finding appropriate local organizations. Before the semester begins, you will meet with your internship supervisor and finalize a learning contract to be submitted to the PSY 442/443 instructor.
+
+## Learning Goals/Outcomes
+
+Through the internship experience, students are able to:
+
+-   Explore and strengthen their career intentions
+
+-   Apply knowledge learned in the Applied Psychology Program in a "real-world" environment
+
+-   Gain project experience (internships will often assign special projects, different from typical daily work, for interns to perform)
+
+-   Develop written and oral communication skills
+
+-   Cultivate a network of contacts and references
+
+-   Learn professional behavior to help them function effectively in the workplace
+
+-   Prepare for entry-level employment or graduate school opportunities
+:::
+
+# Independent Research Project {#independent-research-project}
+
+::: panel-tabset
+## Description
+
+> The student will develop a research project under the supervision of a faculty member. All students conducting an independent research project will be required to complete IRB training. Students who select this option will gain experience in each step of the research process from the development of a research question through the analysis and reporting of results.
+>
+> Prior to development of the study, faculty will meet with students to discuss the research topic, review previous literature in the area, and formulate a specific research question. Upon approval of the research question, students will develop and implement the study with the help of their faculty advisor. Specifically, students will conduct a thorough literature review, create hypotheses, develop a methodological design as well as materials and measures for the study, submit an IRB proposal, collect data, analyze the results of their research using statistical software, and prepare a report of their findings. Students should strive to prepare their results for professional presentation or publication. Students will be responsible for scheduling regular meetings with their faculty advisor to discuss their progress and next steps.
+
+## Student Preparation
+
+Prior to the start of the semester, identify an area of research that you would like to become involved in (I/O, cognitive, developmental, etc.) and a [faculty member (specializing in that area)](https://www.farmingdale.edu/arts-sciences/psy/faculty_researchers-1.shtml) with whom you would like to work. Contact the faculty member to determine whether their schedule will permit them to work with you during the semester. At the start of the semester, students will meet with their faculty advisor prepared with
+
+1.  A research topic
+
+2.  A brief reference list with summaries of relevant articles (3 -- 5 articles)
+
+3.  Potential research question. Students and faculty will finalize a learning contract, documenting planned semester activities, to be submitted to their PSY 442/443 *instructor.*
+
+## Learning Goals/Outcomes:
+
+Through the research experience, students are able to:
+
+-   Describe the (a) topic of their research, (2) seminal articles in the area, (3) major purpose of the research, (d) research methodology, and (e) results and contributions of the research
+
+-   Outline the steps of the scientific method
+
+-   Describe ethical standards of conducting research with human participants
+
+-   Conduct a literature review using library research databases
+
+-   Read and summarize APA-style research articles
+
+-   Develop testable hypotheses
+
+-   Develop a research methodology with reliable and valid measures
+
+-   Collect data with human participants
+
+-   Enter and analyze data using a statistical software program
+
+-   Prepare results of research for presentation/publication using APA-style guidelines
+:::
+
+# Research Assistantship {#research-assistantship}
+
+::: panel-tabset
+## Description
+
+> The student will work with a faculty member as an assistant in the faculty member's ongoing research. Students may work individually with a faculty member or as part of a research team. All students working as a research assistant will be required to complete IRB training. As a research assistant, students will gain experience in the scientific method and assist in various steps of the research process. Prior to the assignment of specific duties, faculty will meet with students to introduce them to their research program. Students will be educated on the research topic, scope of the research, seminal articles in the area, and be updated on prior research the faculty member has conducted in the area as well as the status of the current project.
+>
+> Depending on the stage of the faculty's research, students may assist in the development of a research question, hypothesis development, conducting a literature review, summarizing research articles, creating an annotated bibliography, development of research methodology and study materials, completion of IRB forms, direct interaction with research participants, the collection of data, and/or analysis and reporting of data. Students will be responsible for scheduling regular meetings with their faculty advisor to discuss their progress and next steps.
+
+## Student Preparation
+
+Prior to the start of the semester, identify an area of research that you would like to become involved in (I/O, cognitive, developmental, etc.) and a faculty member (specializing in that area) with whom you would like to work. Contact the faculty member to express your interest in their research and determine whether their schedule will permit them to work with you during the semester. At the start of the semester, students will meet with their faculty advisor and finalize a learning contract, documenting planned semester activities, to be submitted to their PSY 442/443 instructor.
+
+## Learning Goals/Outcomes
+
+Through the research assistantship, students are able to:
+
+-   Describe the faculty member's research program including the
+
+    -   Topic of research
+
+    -   Seminal articles in the area
+
+    -   Major purpose of the research
+
+    -   Research methodology (when available)
+
+    -   Results and contributions of the research (when available)
+
+-   Outline the steps of the scientific method
+
+-   Describe ethical standards of conducting research with human participants
+
+-   Conduct a literature review using library research databases
+
+-   Read and summarize APA-style research articles
+
+**Additional Goals/Outcomes (depending on the stage of faculty research)**
+
+-   Develop testable hypotheses
+
+-   Develop a research methodology including reliable and valid measures
+
+-   Collect data with human participants
+
+-   Enter and analyze data using a statistical software program
+
+-   Prepare results of research for presentation/publication using APA-style guidelines\[\]{#\_Internship/Senior_Project:\_Alternat .anchor}
+:::
+
+# Internship/Senior Project: Alternate
+
+::: panel-tabset
+## Description
+
+> If a student has an idea for an Internship/Senior Project experience that does not clearly fit into one of the categories above, the student can propose an alternate experience to the internship coordinator for approval. Alternative activities must meet the basic learning objectives of an Internship/Senior Project experience below.
+
+## Student Preparation
+
+Prior to the start of the semester, identify a project/activity that you would like to work on during the semester and a supervisor/faculty member with whom you would like to work. Contact the supervisor/faculty member to express your interest and determine whether their schedule and expertise will permit them to work with you during the semester. The student should then meet with the supervisor/faculty mentor to create a tentative learning contract which documents planned semester activities and their connection to the learning objectives. The learning contract should be submitted to the internship coordinator for approval *before* work begins. Approval of alternate projects is at the discretion of the internship coordinator.
+
+## Learning Goals/Outcomes
+
+Through the Internship/Senior Project experience, students are able to:
+
+-   Explore and strengthen their career intentions
+
+-   Synthesize, integrate, and apply knowledge learned in the Applied Psychology Program to a real problem or a real setting
+
+-   Gain project experience
+
+-   Cultivate a network of contacts and references
+
+-   Develop written and oral communication skills
+
+-   Learn professional behavior to help them function effectively in the workplace (meeting deadlines, quality of work product, etc.)
+
+-   Prepare for entry-level employment or graduate school opportunities
+
+-   Alternate experiences should result in a tangible product---paper/journal article, conference presentation, classroom presentation, conference program, work report, etc.
+:::
+
+# Sample Internship Learning Contract {#sample-internship-learning-contract}
+
+Please see below for examples of a Learning Contract from each Senior Project path:
+
+::: panel-tabset
+## Internship
+
+![Learning Contract Example for Internship](contract_i.png)
+
+## Research Assistantship
+
+![Learning Contract Example for Research Assistantship](contract_r.png)
+
+## Independent Project
+
+![Learning Contract Example for Independent Project](contract_ip.png)
+:::
+
+## Sample Timesheet {#sample-internship-timesheet}
+
+You are required to fill out your timesheet each week and select *Request Signature* from your supervisor. Remember, it is *your* responsibility to keep track of your hours. Do not wait until the end of the semester to start adding in your hours!
+
+When completing your timesheet, please make sure to keep a weekly log of tasks performed throughout the week. This serves a dual purpose of documenting tasks performed at the site, and it provides a context for your supervisor to sign.
+
+::: panel-tabset
+## Hours Overview
+
+![Hours Overview](timesheet_1.png){group="gallery"}
+
+## Weekly Log
+
+![Weekly Log](timesheet_2.png){group="gallery"}
+
+## Entering Hours
+
+![Adding Hours](timesheet_3.png){group="gallery"} **Note: Timesheet hours should be entered in whole increments (1 hour = 1, 1 and ½ hours = 1.5, etc.)**
+:::
+
+::: {.callout-note collapse="true"}
+## Supplementary Supervisors
+
+If you have multiple supervisors you can deselect the checked option above and you will be able to enter in a different individual to send the timesheet data to.
+
+![Supplemental Supervisor](timesheet_4.png){group="gallery"}
+:::
+
+# Accessing Internship Site Searches via Axiom Mentor
+
+\[Use Scribe to create step-by-step walkthrough\]
+
+# Appendix {#appendix}
+
+## Axiom Instructions for Students {#axiom-instructions-for-students}
+
+**Axiom Mentor -- Timesheets Tutorial for Students**
+
+<iframe src="https://scribehow.com/embed/Weekly_Timesheet_Instructions_for_Students__3NbvA5QCSxeAsX5YoEPtgg" width="100%" height="640" allowfullscreen frameborder="0">
+
+</iframe>
+
+## Instructions for Supervisors
+
+### Signing the Learning Contract
+
+<iframe src="https://scribehow.com/embed/How_to_Submit_and_Sign_Learning_Agreement__9gh3nn7rTfaiN3AkVB7CpA" width="100%" height="640" allowfullscreen frameborder="0">
+
+</iframe>

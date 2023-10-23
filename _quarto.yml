@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Senior Project Student Handbook"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - sites.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    toc-title: Table of Contents
+
+editor: visual
+
